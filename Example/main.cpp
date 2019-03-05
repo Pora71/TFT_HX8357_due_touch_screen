@@ -20,7 +20,7 @@ TFT_HX8357_Due tft = TFT_HX8357_Due();       // Invoke custom library
 
 int flag = 0;
 
-//  ************ Screen ************
+//  ******************** Screen ********************
   
   tft.begin();
   tft.setRotation(1);
@@ -72,6 +72,9 @@ int flag = 0;
 
     }
   }
+
+
+//  ******************** Position and pressure in the screen ********************
 
 
 int readTouchX(void) {
