@@ -1,6 +1,6 @@
 /*
 
-
+    Add this part of code in the end of the file: TFT_HX8357_Due.h (https://github.com/Bodmer/TFT_HX8357_Due/blob/master/TFT_HX8357_Due.h)
 
 */
 
